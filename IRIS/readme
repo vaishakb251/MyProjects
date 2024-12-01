@@ -6,7 +6,7 @@ A. Project Details
 
 1. Dataset
     Name: IRIS Dataset
-    Source: UCI Machine Learning Repository
+    Source: UCI Machine Learning Repository (https://archive.ics.uci.edu/dataset/53/iris)
     Features:
         Sepal Length (cm)
         Sepal Width (cm)
